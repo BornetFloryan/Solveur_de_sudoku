@@ -18,6 +18,6 @@ Cette fonction utilise un algorithme de récursion pour remplir les cases vides 
 
 Cette fonction affiche la grille de Sudoku de manière lisible, en divisant la grille en sections de 3x3 pour une meilleure lisibilité.
 
-## Crédits
+## Auteur
 
 Ce programme a été développé par [Floryan BORNET](https://github.com/BornetFloryan). 
