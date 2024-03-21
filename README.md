@@ -20,4 +20,4 @@ Cette fonction affiche la grille de Sudoku de manière lisible, en divisant la g
 
 ## Crédits
 
-Ce programme a été développé par [Floryan BORNET]([https://github.com/FloryanB](https://github.com/BornetFloryan)). 
+Ce programme a été développé par [Floryan BORNET](https://github.com/BornetFloryan). 
